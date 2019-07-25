@@ -1,0 +1,17 @@
+.imageHeader {
+  background-image: url("../images/appusage.jpg");
+  background-color: #999999;
+}
+.headerBorder {
+  border-bottom: 20px solid #ee3031;
+}
+.iconBackground {
+  background-color: #0055a5;
+  color: white;
+  font-size: 4em;
+  border-radius: 10px 0px 0px 10px;
+}
+
+.col-md-12 {
+  padding: 10px;
+}
